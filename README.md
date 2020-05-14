@@ -1,4 +1,4 @@
-# facepoint_detection
+# facial-keypoint-detection
 Facial keypoint detection that takes in any image with facees
 
 
